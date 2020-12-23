@@ -1,0 +1,18 @@
+.container-history{
+    padding: 10px;
+    margin: 20px;
+    border-bottom: 1px solid rgba(51, 50, 50, 0.75);
+    transition: all 0.3s;
+    font-family: 'Saira', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+}
+.container-history:hover{
+    box-shadow:-1px 5px 10px 0px rgba(51, 50, 50, 0.75);
+}
+.container-history h2 {
+    text-align: center;
+}
+#b-card {
+    color: #79589F;
+}

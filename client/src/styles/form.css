@@ -1,0 +1,56 @@
+form {
+    margin-top: 5%;
+}
+input {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 10%;
+    margin-right:10% ;
+}
+p {
+    margin-left: 10%;
+}
+  
+input:focus {
+    outline: none;
+    border-color: rgb(223, 167, 255);
+}
+
+.btn-wrap {
+    display: flex;
+    justify-content: space-around;
+}
+.btn-wrap div {
+    padding: 5px;
+    border-radius: 3px;
+    margin: 5px 0;
+    background-color: #79589F;
+    text-align: center;
+    border: .1px solid black;
+    font-weight: 400;
+    color: blanchedalmond;
+    font-size: 15px;
+    width: 100px;
+}
+
+.cancel-link {
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+.next-btn {
+    border-color: #79589F;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 5px 0;
+    width: 100px;
+}
+.next-btn:active{
+    border: none;
+}

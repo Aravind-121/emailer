@@ -1,0 +1,37 @@
+.confirm-text {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 23px;
+}
+
+.container-review {
+    border: 1px solid rgb(223, 167, 255);
+    margin: 5% 10% 0 10% ;
+    padding: 10px 0;
+    font-size: 23px;
+    border-radius: 4px;
+}
+
+.container-review span {
+    font-weight: 900;
+}
+
+.container-review .res {
+    font-weight: 400;
+    margin-left: 10px;
+    color: #654a80;
+}
+.btns-container {
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-around;
+}
+.back-btn, .send-btn {
+    padding: 10px;
+    background-color: #79589f;
+    border-radius: 3px;
+    color: aliceblue;
+    margin: 5px 0;
+    width: 100px;
+    border: none;
+}

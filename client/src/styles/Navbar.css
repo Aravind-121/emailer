@@ -1,0 +1,12 @@
+.signup-btn{
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+}
+.nav-link {
+    color: aliceblue;
+    text-decoration: none;
+}
+.main {
+    font-size: 23px;
+}
