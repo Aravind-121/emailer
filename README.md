@@ -19,4 +19,4 @@ You will also see any lint errors in the console.
 
 ## View Live App at
 
-<a href="https://tn-covidvisualizer.netlify.app/">TN - Covid Visualizer</a>
+<a href="https://emailer-dev-app.herokuapp.com/">View - App</a>
